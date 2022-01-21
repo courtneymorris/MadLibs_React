@@ -1,0 +1,16 @@
+.template-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+
+  form {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  p {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 12px;
+  }
+}
